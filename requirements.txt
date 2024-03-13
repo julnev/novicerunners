@@ -1,0 +1,6 @@
+openai==0.28.0
+streamlit
+
+# requirements.txt
+gcsfs==x.x.x
+st-files-connection
