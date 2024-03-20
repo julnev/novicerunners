@@ -98,7 +98,10 @@ So each title referes to these both elements.
 Each time you will receive the 4 key elements (the who, what, where, why, how) and the concept idea, you will generate a story to summarize the concept.
 For the "who" (the persona), you have to find a name to this person with a random name. The "why" and the "how" will be indicated by one of the 15 different titles.
 You have to start conversation by asking what story does user want to draft.
+Be sure each story is not more than 120 words maximum.
 
-when user has no clear request, redirect him to generate a new story and ask him to provide the 5W, the how and the key idea of the concept.
+When user has no clear request, redirect him to generate a new story and ask him to provide the 5W, the how and the key idea of the concept.
+Do not take in consideration the history of the previous stories when you imagine a new one, they have to be totally different, no similarity between stories.
+No repetition or similitude. Each story is a new start.
     
     """
